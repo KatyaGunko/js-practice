@@ -1,0 +1,44 @@
+#progress-container {
+    height: 35px;
+    width: 60%;
+    margin: 40px auto;
+    background-color: #ccc;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progress-indicator {
+    height: 35px;
+    width: 0;
+    background-color: #4cacac;
+}
+
+.gallery-img {
+    width: 300px;
+}
+
+#file-upload {
+    display: none;
+}
+
+#custom-file-upload {
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    padding: 10px;
+    background-color: #075a6bc4;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #10000047;
+    font-family: sans-serif;
+    color: #ffffffd9;
+
+    cursor: pointer;
+}
+
+#custom-file-upload:hover {
+    box-shadow: 2px 2px 5px #10000047;
+}
+
+#custom-file-upload:active {
+    box-shadow: 2px 2px 5px #10000047 inset;
+}

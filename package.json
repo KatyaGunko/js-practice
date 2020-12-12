@@ -1,0 +1,22 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "Some common pure JS components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatyaGunko/js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatyaGunko/js-practice/issues"
+  },
+  "homepage": "https://github.com/KatyaGunko/js-practice#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
